@@ -6,10 +6,9 @@ Selamat datang di portofolio saya! Saya Lamro Sitorus, seorang Junior Web Develo
 
 - **HTML**: Membangun struktur halaman web.
 - **CSS**: Menciptakan desain yang menarik dan responsif.
-- **JavaScript**: Menambahkan interaktivitas ke halaman web.
+- **JavaScript**: Menambahkan interaktivitas dan fungsionalitas ke halaman web.
 - **Bootstrap**: Membantu desain responsif dengan framework CSS.
 - **Tailwind CSS**: Framework CSS utility-first untuk desain yang fleksibel.
-- **PHP & CodeIgniter**: Pengembangan backend untuk aplikasi web dinamis.
 
 ## Proyek Utama
 
